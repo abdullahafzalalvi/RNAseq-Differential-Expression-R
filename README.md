@@ -82,8 +82,10 @@ Upregulated genes appear on the right, downregulated genes on the left. Genes wi
 ---
   
   ## Author
-  **Abdullah**  
-  Undergraduate Biotechnology Student  
+  **Abdullah Afzal Alvi**  
+  Undergraduate Biotechnology Student
+  Acadmic Scholar
+  Researcher
 Interest areas: RNA-seq analysis, computational biology, and applied bioinformatics
 
 ---
